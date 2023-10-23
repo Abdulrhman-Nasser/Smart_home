@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Control_sys", "Master\Control_sys.cproj", "{033CB28C-86C6-4C24-92B7-8D8991729D11}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Room_sys", "..\Room_sys\Slave\Room_sys.cproj", "{EF30E3CE-EFFD-4A26-9BF2-72C4A70332EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033CB28C-86C6-4C24-92B7-8D8991729D11}.Debug|AVR.ActiveCfg = Debug|AVR
+		{033CB28C-86C6-4C24-92B7-8D8991729D11}.Debug|AVR.Build.0 = Debug|AVR
+		{033CB28C-86C6-4C24-92B7-8D8991729D11}.Release|AVR.ActiveCfg = Release|AVR
+		{033CB28C-86C6-4C24-92B7-8D8991729D11}.Release|AVR.Build.0 = Release|AVR
+		{EF30E3CE-EFFD-4A26-9BF2-72C4A70332EA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EF30E3CE-EFFD-4A26-9BF2-72C4A70332EA}.Debug|AVR.Build.0 = Debug|AVR
+		{EF30E3CE-EFFD-4A26-9BF2-72C4A70332EA}.Release|AVR.ActiveCfg = Release|AVR
+		{EF30E3CE-EFFD-4A26-9BF2-72C4A70332EA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
