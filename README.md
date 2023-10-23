@@ -1,2 +1,2 @@
 # Smart_home
-Embedded Smart Home project
+Embedded atmega32 Smart Home project
